@@ -1,0 +1,19 @@
+Fastest Route from Adana to Safranbolu (28 KM):
+Adana	Mersin	4	7
+Mersin	Safranbolu	24	10
+Roads of Barely Connected Map is:
+Adana	Mersin	4	7
+Antalya	Isparta	5	14
+Adana	Antalya	6	9
+Konya	Sivas	7	12
+Kayseri	Antalya	8	11
+Konya	Safranbolu	9	8
+Isparta	Konya	11	2
+Fastest Route from Adana to Safranbolu on Barely Connected Map (31 KM):
+Adana	Antalya	6	9
+Antalya	Isparta	5	14
+Isparta	Konya	11	2
+Konya	Safranbolu	9	8
+Analysis:
+Ratio of Construction Material Usage Between Barely Connected and Original Map: 0.28
+Ratio of Fastest Route Between Barely Connected and Original Map: 1.11

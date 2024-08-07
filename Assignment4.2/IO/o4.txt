@@ -1,0 +1,21 @@
+Fastest Route from Düzce to Kütahya (3000 KM):
+Düzce	Burdur	1000	14
+Çanakkale	Burdur	1000	9
+Kütahya	Çanakkale	1000	3
+Roads of Barely Connected Map is:
+Kütahya	Çanakkale	1000	3
+Tunceli	Eskişehir	1000	4
+Burdur	Eskişehir	1000	6
+Samsun	Aydın	1000	7
+Çanakkale	Burdur	1000	9
+Aydın	Burdur	1000	13
+Düzce	Burdur	1000	14
+Iğdır	Yalova	2000	12
+Burdur	Iğdır	2000	18
+Fastest Route from Düzce to Kütahya on Barely Connected Map (3000 KM):
+Düzce	Burdur	1000	14
+Çanakkale	Burdur	1000	9
+Kütahya	Çanakkale	1000	3
+Analysis:
+Ratio of Construction Material Usage Between Barely Connected and Original Map: 0.25
+Ratio of Fastest Route Between Barely Connected and Original Map: 1.00

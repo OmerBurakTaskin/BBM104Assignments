@@ -1,0 +1,11 @@
+Edirne	Antalya
+Fatsa	Denizli	600	5
+Gümüşhane	Fatsa	1100	7
+Fatsa	Edirne	800	4
+Edirne	Denizli	1500	6
+Denizli	Balıkesir	900	9
+Ceyhan	Edirne	500	2
+Balıkesir	Ceyhan	800	1
+Edirne	Balıkesir	700	10
+Antalya	Denizli	500	8
+Balıkesir	Antalya	700	3

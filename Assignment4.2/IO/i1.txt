@@ -1,0 +1,15 @@
+Adana	Safranbolu
+Adana	Mersin	4	7
+Adana	Antalya	6	9
+Kayseri	Adana	16	4
+Kayseri	Antalya	8	11
+Kayseri	Sivas	21	6
+Isparta	Kayseri	10	1
+Antalya	Isparta	5	14
+Isparta	Sivas	14	5
+Mersin	Safranbolu	24	10
+Safranbolu	Antalya	23	3
+Isparta	Konya	11	2
+Konya	Sivas	7	12
+Safranbolu	Isparta	18	13
+Konya	Safranbolu	9	8

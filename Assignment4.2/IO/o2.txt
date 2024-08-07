@@ -1,0 +1,23 @@
+Fastest Route from Ağrı to Urfa (1600 KM):
+Ağrı	Van	500	14
+Van	Hatay	900	4
+Hatay	Urfa	200	16
+Roads of Barely Connected Map is:
+Ağrı	Erzurum	100	9
+Hatay	Urfa	200	16
+Hatay	Antep	200	18
+Muş	Ağrı	300	8
+Urfa	Kahramanmaraş	300	11
+Van	Erzurum	400	5
+Batman	Van	700	1
+Hatay	Batman	800	20
+Urfa	Mardin	900	6
+Fastest Route from Ağrı to Urfa on Barely Connected Map (2200 KM):
+Ağrı	Erzurum	100	9
+Van	Erzurum	400	5
+Batman	Van	700	1
+Hatay	Batman	800	20
+Hatay	Urfa	200	16
+Analysis:
+Ratio of Construction Material Usage Between Barely Connected and Original Map: 0.30
+Ratio of Fastest Route Between Barely Connected and Original Map: 1.38

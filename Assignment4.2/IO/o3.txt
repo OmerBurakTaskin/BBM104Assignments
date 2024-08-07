@@ -1,0 +1,16 @@
+Fastest Route from Edirne to Antalya (1400 KM):
+Edirne	Balıkesir	700	10
+Balıkesir	Antalya	700	3
+Roads of Barely Connected Map is:
+Ceyhan	Edirne	500	2
+Antalya	Denizli	500	8
+Fatsa	Denizli	600	5
+Balıkesir	Antalya	700	3
+Edirne	Balıkesir	700	10
+Gümüşhane	Fatsa	1100	7
+Fastest Route from Edirne to Antalya on Barely Connected Map (1400 KM):
+Edirne	Balıkesir	700	10
+Balıkesir	Antalya	700	3
+Analysis:
+Ratio of Construction Material Usage Between Barely Connected and Original Map: 0.51
+Ratio of Fastest Route Between Barely Connected and Original Map: 1.00
