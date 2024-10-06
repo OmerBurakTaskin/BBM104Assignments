@@ -1,4 +1,4 @@
-Hacettepe University Computer Science First 2nd Term BBM104 Assignments
+Hacettepe University Computer Science First Year 2nd Term BBM104 Assignments
 
 - Assignment1: Gym Meal Machine (Vending Machine Firmware)
 - Assignment2: Bus Reservation System
